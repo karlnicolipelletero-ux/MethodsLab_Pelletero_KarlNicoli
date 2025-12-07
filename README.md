@@ -7,8 +7,8 @@ This program demonstrates the use of Java Methods to perform various tasks. It c
 
 
 Included Files
-MethodsLab.java: The main source code containing all 5 required tasks.
-screenshots/: Folder containing images of the terminal output.
+MethodsLab.java: 
+The main source code containing all 5 required tasks.
 
 Features
 The program implements the following 5 tasks:
