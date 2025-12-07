@@ -1,6 +1,6 @@
 MethodsLab Assignment
 Author
-Name: [Karl Nicoli S. Pelletero] Course: [Your Course Code/Name]
+Name: [Karl Nicoli S. Pelletero] Course: [BSCpE-1]
 
 Description
 This program demonstrates the use of Java Methods to perform various tasks. It covers declaring methods, passing parameters, returning values, and using loops.
