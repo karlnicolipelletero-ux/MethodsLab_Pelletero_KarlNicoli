@@ -27,13 +27,19 @@ Sample Output
 Below is an example of the program running in the terminal:
 
 Hello, welcome to the Math Program!
+
 Enter two numbers: 10 5
+
 Addition: 15
 Subtraction: 5
 Multiplication: 50
 Division: 2.0
+
 Enter a number for factorial: 5
+
 Factorial: 120
+
 Sum of array elements: 75
+
 Enter a number to check prime: 7
 7 is prime.
